@@ -1,2 +1,0 @@
-# TallerNode
-SOFKA U
